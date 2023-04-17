@@ -1,0 +1,3 @@
+#!/Users/ali.bakhshi/Downloads/SG-water-poc-1/.venv/bin/python
+from numba.pycc import main
+main()
